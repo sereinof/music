@@ -16,7 +16,7 @@ const playlistContainer = document.getElementById("playlist-container");
 const closeButton = document.getElementById("close-button");
 const playlistSongs = document.getElementById("playlist-songs");
 const currentProgress = document.getElementById("current-progress");
-
+console.log("hello world");
 //index for songs
 let index;
 
